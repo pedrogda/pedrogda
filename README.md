@@ -28,7 +28,7 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent)
 
 ### 📫 Contato
 
