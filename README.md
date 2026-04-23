@@ -1,4 +1,4 @@
-## Eai, eu sou o Pedro 👋
+## Eai, sou o Pedro Augusto Gomes de Araújo👋
 
 Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologia e desenvolvimento de soluções práticas. Tenho experiência em projetos acadêmicos e estou constantemente buscando evoluir minhas habilidades em diferentes áreas da tecnologia.
 
@@ -29,6 +29,8 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 ---
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent)
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=8) 
+
 
 ### 📫 Contato
 
