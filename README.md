@@ -28,6 +28,8 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 ### 📫 Contato
 
 - 📧 Email: pedro.augusto.gda@gmail.com  
