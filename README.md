@@ -1,4 +1,4 @@
-## Eai, sou o Pedro Augusto Gomes de Araújo 👋
+## Olá, sou o Pedro Augusto Gomes de Araújo 👋
 
 Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologia e desenvolvimento de soluções práticas. Tenho experiência em projetos acadêmicos e estou constantemente buscando evoluir minhas habilidades em diferentes áreas da tecnologia.
 
