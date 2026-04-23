@@ -25,14 +25,21 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 
 ---
 
-### 📊 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent" />
-
-
-### 📊 Tecnologias Usadas
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
 
 
 ---
