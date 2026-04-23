@@ -29,7 +29,7 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 ---
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent)
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=8) 
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=8)
 
 
 ### 📫 Contato
