@@ -43,7 +43,7 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
   />
 </p>
 
-<br> 
+<br clear="both" />
 
 ---
 
