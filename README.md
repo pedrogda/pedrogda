@@ -36,15 +36,15 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent" 
+    height="200"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
   />
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    alt="GitHub Languages" 
+    height="200"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&langs_count=8"
   />
 </p>
 
