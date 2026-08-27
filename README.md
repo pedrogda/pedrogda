@@ -24,6 +24,7 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
 
 </p>
@@ -32,18 +33,17 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
 
 ### 📊 Estatísticas 
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrogda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
   />
 
   <img 
-    align="left" 
     alt="GitHub Languages" 
     height="200"
+    hspace="30"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&langs_count=8"
   />
 </p>
