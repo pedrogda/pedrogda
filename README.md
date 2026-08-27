@@ -43,7 +43,6 @@ Estudante de **Ciência da Computação na PUC Minas**, apaixonado por tecnologi
   <img 
     alt="GitHub Languages" 
     height="200"
-    hspace="30"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrogda&theme=transparent&layout=compact&langs_count=8"
   />
 </p>
